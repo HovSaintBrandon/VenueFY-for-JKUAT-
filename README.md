@@ -8,7 +8,7 @@ Linux (Latest `.deb` or `.rpm`):
 [https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/latest](https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/download/App-distro/VenueFY-v1.0.0_amd64.deb))
 
 Android APK (Latest release):
-[https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/latest](https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/download/App-distro/VenueFY-3.2.0.apk))
+[https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/latest](https://github.com/HovSaintBrandon/VenueFY-for-JKUAT-/releases/download/App-distro/VenueFY-v3.4.0-build1.apk))
 
 ### Option 1. GUI install
 
